@@ -18,12 +18,11 @@
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
-	  <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="200">
-</td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
+	  <td><img src="https://cdn.iconscout.com/icon/free/png-256/django-2752208-2285025.png?raw=true" width="200"></td>
       
   </tr>
   <tr>
