@@ -27,8 +27,10 @@
       
   </tr>
   <tr>
+	<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.png" width="200"></td>  
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/extjs-458279.png?raw=true" width="200"></td>
+	<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.png" width="200"></td>
   </tr>
 
 </table>
