@@ -22,7 +22,7 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
-      <td><img 
+      <td><img src="https://icons8.com/icon/FxkIezJo1I3F/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-filled-tal-revivo" width="200"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
@@ -40,7 +40,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/sahanakreddy11">
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sahana.k.reddy/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sahana.k.reddy">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
 
