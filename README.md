@@ -22,7 +22,9 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
-      <td><img src="C:\Users\Lenovo\OneDrive\Desktop\Codegnan\download.png?raw=true" width="200"></td>
+	  <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="200">
+</td>
+      
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
